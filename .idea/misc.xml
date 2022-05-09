@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.27037037037037037" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/3a6e45d45038469d57d7dbf2d7e8019f/jetified-RxFeature-v2.4.1/res/layout/activity_scaner_code.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.22512820512820514" />
+        <entry key="app/src/main/res/drawable/navigation_bar_color.xml" value="0.27037037037037037" />
+        <entry key="app/src/main/res/drawable/selector_flow_text_bg.xml" value="0.34375" />
+        <entry key="app/src/main/res/drawable/selector_navigation_home.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/drawable/shap_flow_text_bg.xml" value="0.34375" />
+        <entry key="app/src/main/res/drawable/shape_button_bg.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/shape_edit_box_bg.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/drawable/shape_flow_text_bg_normal.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/drawable/shape_flow_text_bg_press.xml" value="0.34375" />
+        <entry key="app/src/main/res/drawable/shape_indicator_point.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/shape_indicator_point_normal.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/shape_tag_bg.xml" value="0.23796296296296296" />
+        <entry key="app/src/main/res/drawable/shape_ticket_code_box_bg.xml" value="0.20520833333333333" />
+        <entry key="app/src/main/res/drawable/shape_title_flag.xml" value="0.23425925925925925" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15526849037487336" />
+        <entry key="app/src/main/res/layout/activity_scaner_qr_code.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_ticket.xml" value="0.3203332799433305" />
+        <entry key="app/src/main/res/layout/base_fragment_layout.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/base_home_fragment_layout.xml" value="0.2509057971014493" />
+        <entry key="app/src/main/res/layout/flow_text_view.xml" value="0.19882246376811594" />
+        <entry key="app/src/main/res/layout/flow_text_viewe.xml" value="0.2658514492753623" />
+        <entry key="app/src/main/res/layout/fragment_empty.xml" value="0.2509057971014493" />
+        <entry key="app/src/main/res/layout/fragment_error.xml" value="0.2509057971014493" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.13228171430449429" />
+        <entry key="app/src/main/res/layout/fragment_home_pager.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout/fragment_loading.xml" value="0.44569751926775286" />
+        <entry key="app/src/main/res/layout/fragment_on_sell.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/fragment_red_packet.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.17967542605637124" />
+        <entry key="app/src/main/res/layout/fragment_search_layout.xml" value="0.3192821798133947" />
+        <entry key="app/src/main/res/layout/fragment_selected.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/fragment_with_bar_layout.xml" value="0.1734375" />
+        <entry key="app/src/main/res/layout/include_home_pager_title_part.xml" value="0.24094202898550723" />
+        <entry key="app/src/main/res/layout/item_home_pager_content.xml" value="0.3171820279183863" />
+        <entry key="app/src/main/res/layout/item_linear_goods_content.xml" value="0.2109375" />
+        <entry key="app/src/main/res/layout/item_on_sell_content.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/item_selected_page_content.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/item_selected_page_left.xml" value="0.25271739130434784" />
+        <entry key="app/src/main/res/menu/my_navigation_items.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
